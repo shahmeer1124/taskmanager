@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "268304612590",
+    "project_id": "samsungchat-935a4",
+    "storage_bucket": "samsungchat-935a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268304612590:android:e7175dd5fc007b1c18c7ff",
+        "android_client_info": {
+          "package_name": "com.checksum.themanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268304612590-u5bve7fq907u6fccssffn7c0a06ova6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-7eLl_ty2ikEk3uDeSg4wiJB9aUZhwOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268304612590-u5bve7fq907u6fccssffn7c0a06ova6o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "268304612590-thp86vqr82he367sptioe3tssiq930kc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.checksum.themanager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
